@@ -1,4 +1,4 @@
-![IMG_20200915_100944_971]
+![GitHub Logo](/image/Screenshot_20200930-143718_Termux.jpg)
 
 # Installation steps:
 # $ apt update && apt upgrade
