@@ -1,3 +1,5 @@
+![IMG_20200915_100944_971]
+
 # Installation steps:
 # $ apt update && apt upgrade
 # $ apt install python2 -y
